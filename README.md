@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Md Ashaduzzaman
 
-**AI Engineer & Researcher | LLMs, RAG, Explainable AI, Computer Vision | Former Data Science Intern @ Pfizer **
+**AI Engineer & Researcher | LLMs, RAG, Explainable AI, Computer Vision | Former Data Science Intern @ Pfizer**
 
 I build end-to-end AI systems—from retrieval-augmented pipelines to conversational agents—focused on making machine learning more transparent, reliable, and human-centered. Worked on retrieval-augmented QA, explainable recommender systems, and medical image analysis.
 
