@@ -17,12 +17,23 @@ I build end to end AI systems, including retrieval augmented pipelines and conve
 
 ## 🚀 Featured Projects
 
-### 🔹 LLM RAG System
-- Built a retrieval-augmented QA system using embeddings + FAISS + LLMs  
-- Focus on enterprise use cases (secure, scalable information retrieval)  
-- Tech: Python, LangChain, Hugging Face, AWS  
+## 🚀 Featured Projects
 
-👉 [GitHub Repo](#)
+### 🔹 AI-Powered RAG Question Answering System
+
+Developed an end-to-end **Retrieval-Augmented Generation (RAG)** system that enables users to build custom knowledge bases from private data and perform context-aware question answering.
+
+* Built during **Data Science Internship @ Pfizer (2023)**
+* Supports multiple LLMs: **FLAN-T5 (local), GPT (OpenAI), LLaMA (Hugging Face)**
+* Implements semantic search using **FAISS vector database**
+* Designed for **enterprise use cases** such as secure and scalable knowledge retrieval
+
+**Tech Stack:** Python, FAISS, LangChain, Transformers, OpenAI API
+
+👉 [GitHub Repo](https://github.com/asadayon/ai-rag-question-answering-system)
+
+---
+
 
 ---
 
