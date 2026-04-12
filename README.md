@@ -7,11 +7,10 @@ I build end-to-end AI systems—from retrieval-augmented pipelines to conversati
 ---
 
 ## 🔬 About Me
-- 🎓 PhD in AI (Expected 2026), University of Nebraska Omaha  
+- 🎓 PhD in AI (Expected July, 2026), University of Nebraska Omaha  
 - 🤖 3+ years building LLM applications (RAG, AI Agents, QA systems)  
 - 🧠 Research focus: Explainable AI & Human-AI Interaction  
 - 🧬 Background in Computer Vision (Cryo-TEM, SEM image analysis)  
-- ☁️ Experience with AWS, FastAPI, Docker, MLflow  
 
 ---
 
