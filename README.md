@@ -17,8 +17,6 @@ I build end to end AI systems, including retrieval augmented pipelines and conve
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
 ### 🔹 AI-Powered RAG Question Answering System
 
 Developed an end-to-end **Retrieval-Augmented Generation (RAG)** system that enables users to build custom knowledge bases from private data and perform context-aware question answering.
