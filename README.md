@@ -39,7 +39,8 @@ Developed an end-to-end **Retrieval-Augmented Generation (RAG)** system that ena
 - LLM-powered system providing natural language explanations for recommendations  
 - Implements guided interaction: starter questions vs quiz-based prompts  
 - Improves user comprehension and engagement through active reasoning  
-- Built on an Advisor Recommender System using similarity + topic modeling  
+- Built on an Advisor Recommender System using similarity + topic modeling
+- Tech: Python, Streamlit, LLM (LLaMA/API), NLP (Cosine Similarity, LDA), Supabase    
 
 👉 [GitHub Repo](https://github.com/asadayon/Advisor_Recommendation)
 ---
