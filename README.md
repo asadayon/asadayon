@@ -63,20 +63,15 @@ Developed an end-to-end **Retrieval-Augmented Generation (RAG)** system that ena
 
 ---
 
-### 🔹 AI Agent System
-- Built an AI agent capable of multi-step reasoning and tool usage  
-- Supports querying, retrieval, and dynamic response generation  
+### 🔹 Structure–Activity Modeling of mRNA-LNPs  
+- Statistical modeling of lipid nanoparticle formulations for drug delivery (PhD research)  
+- Identifies key formulation factors affecting size, zeta potential, biodistribution, and mRNA expression  
+- Combines ANOVA, decision trees, and predictive modeling (SVR) for interpretable insights  
+- Enables rational design of LNPs for targeted RNA delivery  
 
-👉 [GitHub Repo](#)
+**Tech Stack:** JMP, Statistical Modeling, Machine Learning (SVR), Data Analysis  
 
----
-
-### 🔹 Computer Vision for Medical Imaging
-- Semantic segmentation of Cryo-TEM / SEM images using deep learning  
-- Applied self-supervised learning for improved performance  
-
-👉 [GitHub Repo](#)
-
+👉 [GitHub Repo](YOUR_LINK)
 ---
 
 ## 🛠️ Tech Stack
