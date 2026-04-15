@@ -57,6 +57,8 @@ Enables scalable and accurate characterization of LNPs for drug delivery applica
 
 👉 [GitHub Repo](https://github.com/asadayon/LNP-size-Distribution)
 
+---
+
 ### 🔹 AI Agent System
 - Built an AI agent capable of multi-step reasoning and tool usage  
 - Supports querying, retrieval, and dynamic response generation  
