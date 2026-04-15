@@ -35,13 +35,13 @@ Developed an end-to-end **Retrieval-Augmented Generation (RAG)** system that ena
 
 ---
 
-### 🔹 Conversational Recommender System (Explainable AI)
-- LLM-powered system that explains recommendations in natural language  
-- Designed to improve user understanding and trust  
-- Based on research in Human-AI interaction  
+### 🔹 Conversational Explainable Recommender System  
+- LLM-powered system providing natural language explanations for recommendations  
+- Implements guided interaction: starter questions vs quiz-based prompts  
+- Improves user comprehension and engagement through active reasoning  
+- Built on an Advisor Recommender System using similarity + topic modeling  
 
-👉 [GitHub Repo](#)
-
+👉 [GitHub Repo](https://github.com/asadayon/Advisor_Recommendation)
 ---
 
 ### 🔹 AI Agent System
