@@ -17,6 +17,20 @@ I build end to end AI systems, including retrieval augmented pipelines and conve
 
 ## 🚀 Featured Projects
 
+---
+
+### 🔹 Conversational Explainable Recommender System  
+- LLM-powered system providing natural language explanations for recommendations (PhD Research project)  
+- Implements guided interaction: starter questions vs quiz-based prompts  
+- Improves user comprehension and engagement through active reasoning  
+- Built on an Advisor Recommender System using similarity + topic modeling
+  
+**Tech Stack:** Python, Streamlit, LLM (LLaMA/API), NLP (Cosine Similarity, LDA), Supabase    
+
+👉 [GitHub Repo](https://github.com/asadayon/Advisor_Recommendation)
+
+---
+
 ### 🔹 AI-Powered RAG Question Answering System
 
 Developed an end-to-end **Retrieval-Augmented Generation (RAG)** system that enables users to build custom knowledge bases from private data and perform context-aware question answering.
@@ -33,17 +47,7 @@ Developed an end-to-end **Retrieval-Augmented Generation (RAG)** system that ena
 ---
 
 
----
 
-### 🔹 Conversational Explainable Recommender System  
-- LLM-powered system providing natural language explanations for recommendations (PhD Research project)  
-- Implements guided interaction: starter questions vs quiz-based prompts  
-- Improves user comprehension and engagement through active reasoning  
-- Built on an Advisor Recommender System using similarity + topic modeling
-  
-**Tech Stack:** Python, Streamlit, LLM (LLaMA/API), NLP (Cosine Similarity, LDA), Supabase    
-
-👉 [GitHub Repo](https://github.com/asadayon/Advisor_Recommendation)
 
 ---
 
