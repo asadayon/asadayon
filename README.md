@@ -48,10 +48,10 @@ Developed an end-to-end **Retrieval-Augmented Generation (RAG)** system that ena
 ---
 
 ### 🔹 AI-Driven LNP Size Analysis from Cryo-TEM
-Deep learning pipeline for semantic segmentation of lipid nanoparticles (LNPs) from Cryo-TEM images
-Combines supervised (U-Net) and self-supervised (BT-UNet) learning for improved performance with limited labels
-Automated particle size distribution quantification using contour detection and image processing
-Enables scalable and accurate characterization of LNPs for drug delivery applications
+- Deep learning pipeline for semantic segmentation of lipid nanoparticles (LNPs) from Cryo-TEM images
+- Combines supervised (U-Net) and self-supervised (BT-UNet) learning for improved performance with limited labels
+- Automated particle size distribution quantification using contour detection and image processing
+- Enables scalable and accurate characterization of LNPs for drug delivery applications
 
 **Tech Stack:** Python, PyTorch, OpenCV, NumPy, Matplotlib, Deep Learning (U-Net, BT-UNet)
 
