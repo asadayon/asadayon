@@ -44,6 +44,7 @@ Developed an end-to-end **Retrieval-Augmented Generation (RAG)** system that ena
 **Tech Stack:** Python, Streamlit, LLM (LLaMA/API), NLP (Cosine Similarity, LDA), Supabase    
 
 👉 [GitHub Repo](https://github.com/asadayon/Advisor_Recommendation)
+
 ---
 
 ### 🔹 AI Agent System
