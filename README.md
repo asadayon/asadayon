@@ -71,7 +71,8 @@ Developed an end-to-end **Retrieval-Augmented Generation (RAG)** system that ena
 
 **Tech Stack:** JMP, Statistical Modeling, Machine Learning (SVR), Data Analysis  
 
-👉 [GitHub Repo](YOUR_LINK)
+👉 [GitHub Repo]([https://github.com/asadayon/LNP-size-Distribution](https://github.com/asadayon/Structure-Activity-Modeling-of-mRNA-LNPs-using-Statistical-Learning-JMP-))
+
 ---
 
 ## 🛠️ Tech Stack
