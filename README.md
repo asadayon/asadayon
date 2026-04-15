@@ -84,12 +84,12 @@ AWS, Docker, FastAPI, MLflow, Streamlit
 - 📄 Explaining Recommendations using LLMs (Springer, 2024)  
 - 📄 Deep Learning for Biofilm Image Analysis (IEEE, Frontiers, Elsevier)  
 
-👉 [Google Scholar](#)
+👉 [Google Scholar]([#](https://scholar.google.com/citations?user=FseWdQQAAAAJ&hl=en))
 
 ---
 
 ## 🌐 Connect with Me
-- 💼 [LinkedIn](#)
+- 💼 [LinkedIn]([#](https://www.linkedin.com/in/md-ashaduzzaman-ma/))
 - 📧 Email: asadayon@gmail.com
 - 🧑‍💻 GitHub: https://github.com/asadayon
 
