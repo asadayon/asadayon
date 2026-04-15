@@ -36,7 +36,7 @@ Developed an end-to-end **Retrieval-Augmented Generation (RAG)** system that ena
 ---
 
 ### 🔹 Conversational Explainable Recommender System  
-- LLM-powered system providing natural language explanations for recommendations  
+- LLM-powered system providing natural language explanations for recommendations (PhD Research project)  
 - Implements guided interaction: starter questions vs quiz-based prompts  
 - Improves user comprehension and engagement through active reasoning  
 - Built on an Advisor Recommender System using similarity + topic modeling
