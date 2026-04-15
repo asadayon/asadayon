@@ -19,8 +19,8 @@ I build end to end AI systems, including retrieval augmented pipelines and conve
 
 ---
 
-### 🔹 Conversational Explainable Recommender System  
-- LLM-powered system providing natural language explanations for recommendations (PhD Research project)  
+### 🔹 Conversational Explainable Recommender System (PhD Research project)  
+- LLM-powered system providing natural language explanations for recommendations  
 - Implements guided interaction: starter questions vs quiz-based prompts  
 - Improves user comprehension and engagement through active reasoning  
 - Built on an Advisor Recommender System using similarity + topic modeling
@@ -31,11 +31,9 @@ I build end to end AI systems, including retrieval augmented pipelines and conve
 
 ---
 
-### 🔹 AI-Powered RAG Question Answering System
+### 🔹 AI-Powered RAG Question Answering System (Summer Data Science Internship 2023 @ Pfizer)
 
-Developed an end-to-end **Retrieval-Augmented Generation (RAG)** system that enables users to build custom knowledge bases from private data and perform context-aware question answering.
-
-* Built during **Data Science Internship @ Pfizer (2023)**
+* Developed an end-to-end **Retrieval-Augmented Generation (RAG)** system that enables users to build custom knowledge bases from private data and perform context-aware question answering.
 * Supports multiple LLMs: **FLAN-T5 (local), GPT (OpenAI), LLaMA (Hugging Face)**
 * Implements semantic search using **FAISS vector database**
 * Designed for **enterprise use cases** such as secure and scalable knowledge retrieval
@@ -47,12 +45,8 @@ Developed an end-to-end **Retrieval-Augmented Generation (RAG)** system that ena
 ---
 
 
-
-
----
-
-### 🔹 AI-Driven LNP Size Analysis from Cryo-TEM
-- Deep learning pipeline for semantic segmentation of lipid nanoparticles (LNPs) from Cryo-TEM images (MS Project)
+### 🔹 AI-Driven LNP Size Analysis from Cryo-TEM (MS Project)
+- Deep learning pipeline for semantic segmentation of lipid nanoparticles (LNPs) from Cryo-TEM images 
 - Combines supervised (U-Net) and self-supervised (BT-UNet) learning for improved performance with limited labels
 - Automated particle size distribution quantification using contour detection and image processing
 - Enables scalable and accurate characterization of LNPs for drug delivery applications
@@ -63,7 +57,7 @@ Developed an end-to-end **Retrieval-Augmented Generation (RAG)** system that ena
 
 ---
 
-### 🔹 Structure–Activity Modeling of mRNA-LNPs  
+### 🔹 Structure–Activity Modeling of mRNA-LNPs (Collaboration Research)
 - Statistical modeling of lipid nanoparticle formulations for drug delivery 
 - Identifies key formulation factors affecting size, zeta potential, biodistribution, and mRNA expression  
 - Combines ANOVA, decision trees, and predictive modeling (SVR) for interpretable insights  
