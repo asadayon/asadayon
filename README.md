@@ -52,7 +52,7 @@ Developed an end-to-end **Retrieval-Augmented Generation (RAG)** system that ena
 ---
 
 ### 🔹 AI-Driven LNP Size Analysis from Cryo-TEM
-- Deep learning pipeline for semantic segmentation of lipid nanoparticles (LNPs) from Cryo-TEM images
+- Deep learning pipeline for semantic segmentation of lipid nanoparticles (LNPs) from Cryo-TEM images (MS Project)
 - Combines supervised (U-Net) and self-supervised (BT-UNet) learning for improved performance with limited labels
 - Automated particle size distribution quantification using contour detection and image processing
 - Enables scalable and accurate characterization of LNPs for drug delivery applications
@@ -64,7 +64,7 @@ Developed an end-to-end **Retrieval-Augmented Generation (RAG)** system that ena
 ---
 
 ### 🔹 Structure–Activity Modeling of mRNA-LNPs  
-- Statistical modeling of lipid nanoparticle formulations for drug delivery (PhD research)  
+- Statistical modeling of lipid nanoparticle formulations for drug delivery 
 - Identifies key formulation factors affecting size, zeta potential, biodistribution, and mRNA expression  
 - Combines ANOVA, decision trees, and predictive modeling (SVR) for interpretable insights  
 - Enables rational design of LNPs for targeted RNA delivery  
