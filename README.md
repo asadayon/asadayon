@@ -12,8 +12,7 @@ I build end to end AI systems, including retrieval augmented pipelines and conve
 - 🤖 3+ years building LLM applications (RAG, AI Agents, QA systems)  
 - 🧠 Research focus: Explainable AI & Human-AI Interaction  
 - 🧪 Background in Computer Vision (Cryo-TEM, SEM image analysis)
-- 📊 Applied statistical analysis across 4 research projects (ANOVA, t-test, correlation, chi-square) for user studies and LNP formulation optimization
-
+- 📊 Applied statistical analysis across 4 research projects (ANOVA, t-test, correlation, chi-square)
 ---
 
 ## 🚀 Featured Projects
