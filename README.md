@@ -60,10 +60,10 @@ I build end to end AI systems, including retrieval augmented pipelines and conve
 ### 🔹 Statistical Modeling of mRNA-LNPs (Collaboration Research)
 - Statistical modeling of lipid nanoparticle formulations for drug delivery 
 - Identifies key formulation factors affecting size, zeta potential, biodistribution, and mRNA expression  
-- Combines ANOVA, decision trees, and predictive modeling (SVR) for interpretable insights  
+- Combines ANOVA, decision trees, correlation analysis and predictive modeling (SVR) for interpretable insights  
 - Enables rational design of LNPs for targeted RNA delivery  
 
-**Tech Stack:** JMP, Statistical Modeling, Machine Learning (SVR), Data Analysis  
+**Tech Stack:** JMP, Statistical Modeling, Machine Learning (SVR), Data Analysis, ANOVA, Pearson Correlation, Decision Trees  
 
 👉 [GitHub Repo](https://github.com/asadayon/Structure-Activity-Modeling-of-mRNA-LNPs-using-Statistical-Learning-JMP-)
 
